@@ -1,1 +1,2 @@
-# c1
+# calculator
+A simple calculator app
